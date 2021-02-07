@@ -1,1 +1,2 @@
-Hello
+form : {{$name}}
+Message : {{$datamessage}}
